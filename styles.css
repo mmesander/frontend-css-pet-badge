@@ -14,4 +14,7 @@ body {
 
 .pet-photo {
     border: 8px solid #B36A5e;
+    width: 300px;
+    border-radius: 50%;
+    margin-bottom: 10px;
 }
