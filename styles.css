@@ -10,6 +10,7 @@ body {
 .pet-badge {
     display: inline-block;
     background-color: #EED7C5;
+    padding: 32px;
 }
 
 .pet-photo {
