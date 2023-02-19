@@ -20,7 +20,7 @@ h2 {
     display: inline-block;
     background-color: #EED7C5;
     padding: 32px;
-    border-radius: 2%;
+    border-radius: 8px;
     box-shadow: 2px 4px 20px rgba(0, 0, 0, 0.5);
 }
 
