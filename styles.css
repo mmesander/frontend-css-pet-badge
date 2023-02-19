@@ -3,8 +3,17 @@ Tekst- en randkleur: #B36A5E
 Badge-kleur: #EED7C5
  */
 
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps:wght@700&display=swap');
+
 body {
     color: #B36A5e;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+h2 {
+    font-size: 80px;
+    margin: 0;
+    text-align: center;
 }
 
 .pet-badge {
