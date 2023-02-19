@@ -1,0 +1,17 @@
+/*
+Tekst- en randkleur: #B36A5E
+Badge-kleur: #EED7C5
+ */
+
+body {
+    color: #B36A5e;
+}
+
+.pet-badge {
+    display: inline-block;
+    background-color: #EED7C5;
+}
+
+.pet-photo {
+    border: 8px solid #B36A5e;
+}
